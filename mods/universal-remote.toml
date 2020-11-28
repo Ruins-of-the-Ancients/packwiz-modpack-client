@@ -1,0 +1,14 @@
+name = "Universal Remote"
+filename = "UniversalRemote-1.12-0.9.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2513/998/UniversalRemote-1.12-0.9.10.jar"
+hash-format = "murmur2"
+hash = "3460524748"
+
+[update]
+[update.curseforge]
+file-id = 2513998
+project-id = 273414
+release-channel = "beta"

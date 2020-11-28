@@ -1,0 +1,14 @@
+name = "Genetics Reborn"
+filename = "geneticsreborn-1.12-1.29.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3030/960/geneticsreborn-1.12-1.29.jar"
+hash-format = "murmur2"
+hash = "734659350"
+
+[update]
+[update.curseforge]
+file-id = 3030960
+project-id = 256989
+release-channel = "beta"

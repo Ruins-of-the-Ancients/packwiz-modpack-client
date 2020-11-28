@@ -1,0 +1,14 @@
+name = "Moving Elevators"
+filename = "movingelevators-1.2.27-mc1.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3117/5/movingelevators-1.2.27-mc1.12.jar"
+hash-format = "murmur2"
+hash = "378967156"
+
+[update]
+[update.curseforge]
+file-id = 3117005
+project-id = 373051
+release-channel = "beta"

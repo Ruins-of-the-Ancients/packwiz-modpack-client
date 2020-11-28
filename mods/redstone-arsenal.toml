@@ -1,0 +1,14 @@
+name = "Redstone Arsenal"
+filename = "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
+hash-format = "murmur2"
+hash = "1856421527"
+
+[update]
+[update.curseforge]
+file-id = 2939416
+project-id = 70631
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "RFTools Control"
+filename = "rftoolsctrl-1.12-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2705/813/rftoolsctrl-1.12-2.0.2.jar"
+hash-format = "murmur2"
+hash = "1940565279"
+
+[update]
+[update.curseforge]
+file-id = 2705813
+project-id = 250763
+release-channel = "beta"

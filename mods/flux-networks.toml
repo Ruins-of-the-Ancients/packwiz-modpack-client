@@ -1,0 +1,14 @@
+name = "Flux Networks"
+filename = "fluxnetworks-1.12.2-4.0.15-32.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2993/739/fluxnetworks-1.12.2-4.0.15-32.jar"
+hash-format = "murmur2"
+hash = "3839411277"
+
+[update]
+[update.curseforge]
+file-id = 2993739
+project-id = 248020
+release-channel = "beta"
