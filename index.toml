@@ -1029,6 +1029,26 @@ file = "config/ruins_config/savannah/dartiscraft-gazebo-vibranium-zpm.tml"
 hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1A.tml"
+hash = "e5b0f95f5ce28b8f40cf8724be97f5d4eaddab14512fb342e5ce73c83d4c0b99"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1B.tml"
+hash = "9093bbe715846bbf3f4a3de016f4d51fddc4369cb3f10bf70975878d980c8e8e"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1C.tml"
+hash = "cb097103b3ab36203eb15065d3459927d716a6f048eee719e7b8628cd2575092"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1D.tml"
+hash = "0344152eaf7e6b26853eddf2fa681b47abc8eaa74d04e6fd782e1e7c1354fb5f"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
+hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
+
+[[files]]
 file = "config/secretroomsmod.cfg"
 hash = "40af6b63544732e61b6c0dc11af9c8bb8404e44402a5c4e8d5502a03d1fb26c2"
 
