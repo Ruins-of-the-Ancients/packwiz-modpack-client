@@ -1512,7 +1512,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "2352012da01587195f41b6ea0edcfd070afb3b05f4a62615399f522b3f4502b0"
+hash = "1eaeff3d90d89503e67c9a5f603f18be900e17dc070045bbc2658730b7cab752"
 metafile = true
 
 [[files]]
