@@ -917,6 +917,10 @@ file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurat
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
+file = "config/ruins_config/desert/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
 file = "config/ruins_config/desert/dartiscraft-gazebodesert-titanium-zpm.tml"
 hash = "13b16ea41fc72b4539adb8336d12880fb00ec2ea8434311e65171352a91edeca"
 
@@ -1001,6 +1005,10 @@ file = "config/ruins_config/ocean/SunkenShip-v3.tml"
 hash = "10309c40807ab6108a31225db9c43f5307e5f22d8eda76d6b156f88455aa48e7"
 
 [[files]]
+file = "config/ruins_config/ocean/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
 file = "config/ruins_config/ocean/shipwreck.tml"
 hash = "95b498916de8c91b9211c8539dbd53b4484f70c38a485b01bef9a5ea5ace05d8"
 
@@ -1011,6 +1019,10 @@ hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
 [[files]]
 file = "config/ruins_config/plains/OutpostNew.tml"
 hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
+
+[[files]]
+file = "config/ruins_config/plains/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
