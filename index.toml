@@ -769,10 +769,6 @@ file = "config/littletiles.json"
 hash = "2c9c5c367694027d6e2bee4da08e0ed4d61fcc1fce1370834714cadd46ec007f"
 
 [[files]]
-file = "config/lucraftcore.cfg"
-hash = "d3f9eba29cd99b84467bc379b64f922c41f3576d407d77b171606d8e820c16e1"
-
-[[files]]
 file = "config/malisiscore.cfg"
 hash = "ec763215ac6cb1f46bc699783a6df6929484d8686368a3db44f7bcf8c395b2ec"
 
@@ -913,8 +909,8 @@ file = "config/ruins_config/desert/TowerAtlantis.tml"
 hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-gazebodesert-titanium-zpm.tml"
-hash = "13b16ea41fc72b4539adb8336d12880fb00ec2ea8434311e65171352a91edeca"
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
+hash = "4ff63a482ac2cbaf4dbb4af56cc8af46090e81e4cc80f687149ba1b0ff6d70b5"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
@@ -949,16 +945,16 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
 file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
 hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-mk11-typesakyo.tml"
 hash = "95c9f7508bf8f609ffdb392aa685f34fb0a3130b59ee57907cda62b13eaaea7d"
+
+[[files]]
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
+hash = "4a2e8938b2b4d819fbfdf984b3385f9481b2c075fb4797c0112af83dcb0dc73a"
 
 [[files]]
 file = "config/ruins_config/hell/taonasg.tml"
@@ -1849,4 +1845,4 @@ hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "fc1bfc21e3d1b82cd292fe52034136407bbeb563d50403806b591bfa64769bfa"
+hash = "d99f4eda5c2b7ca04de27413fe09046e7fa957f655274420206859d2e3ffd178"
