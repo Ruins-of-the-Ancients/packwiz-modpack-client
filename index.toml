@@ -1852,11 +1852,6 @@ hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
 metafile = true
 
 [[files]]
-file = "mods/warpdrive.toml"
-hash = "a76133072e142f425547524ce89d486df8c2c1a53e5830fdaceddcc267aaf668"
-metafile = true
-
-[[files]]
 file = "mods/waystones.toml"
 hash = "c9a6cf19ac94d734c45b85fb48af142c19f60b7dd6d3bf90eacbedeb13a99f4a"
 metafile = true
