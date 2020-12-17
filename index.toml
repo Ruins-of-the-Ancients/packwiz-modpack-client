@@ -1499,6 +1499,21 @@ hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.toml"
+hash = "4b6d9002f2cbbc1494432dff85fb94bd7147c4fe0c97d4b95df7399f613976f3"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "8d7c98449e6ecebe85cfbe07555f958605878d35f14849ab9face0a41774bd56"
+metafile = true
+
+[[files]]
+file = "mods/mekanismores.toml"
+hash = "0e6e5201b3f5f56ad60fc5dc974cc37c71a0d8b594273c3a32318bec1e7b37c4"
+metafile = true
+
+[[files]]
 file = "mods/moar-tinkers.toml"
 hash = "1ba0b1be4650525f02f57547556ecf37a86c7c6872569ae61acba4aad241859d"
 metafile = true
