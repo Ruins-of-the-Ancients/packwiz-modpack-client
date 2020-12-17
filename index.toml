@@ -905,14 +905,6 @@ file = "config/ruins_config/beaches/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-uru-pdd-gdo.tml"
-hash = "5098758350f5f7c97f7cb5dc7e20ced6a0e0fb5969fb1b780d50dd933754bbea"
-
-[[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
@@ -927,14 +919,6 @@ hash = "13b16ea41fc72b4539adb8336d12880fb00ec2ea8434311e65171352a91edeca"
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
-
-[[files]]
-file = "config/ruins_config/forest/dartiscraft-birchoutpost-uru-pdd-gdo.tml"
-hash = "5098758350f5f7c97f7cb5dc7e20ced6a0e0fb5969fb1b780d50dd933754bbea"
-
-[[files]]
-file = "config/ruins_config/forest/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -965,6 +949,10 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
+file = "config/ruins_config/generic/dartiscraft-gazebo-vibranium-zpm.tml"
+hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
+
+[[files]]
 file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
 hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
 
@@ -987,18 +975,6 @@ hash = "88214a92eee6f8f6e6e703416a23a34abafcaf3bc689c1f43cc7072062470fd8"
 [[files]]
 file = "config/ruins_config/jungle/JungleTreePlatform_edit.tml"
 hash = "86f0bc4aa352a57d7be843152815f2d8418cd440836bcaf992ca9b94a78a6b6f"
-
-[[files]]
-file = "config/ruins_config/jungle/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
-file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
-
-[[files]]
-file = "config/ruins_config/jungle_hills/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
 file = "config/ruins_config/mesa/JG_WarTower1Base_Seed_CB_1v12.tml"
@@ -1039,10 +1015,6 @@ hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
 [[files]]
 file = "config/ruins_config/roofed_forest/JG_WarTower1Base_Seed_CB_1v12.tml"
 hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
-
-[[files]]
-file = "config/ruins_config/savannah/dartiscraft-gazebo-vibranium-zpm.tml"
-hash = "a7234b68f3a3d809ee2ff22512066362846692b2154451b4d0659a28579f57ad"
 
 [[files]]
 file = "config/ruins_config/templateparser/TP_WarTower1A.tml"
@@ -1169,11 +1141,6 @@ metafile = true
 [[files]]
 file = "mods/additional-lights.toml"
 hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
-metafile = true
-
-[[files]]
-file = "mods/advanced-rocketry.toml"
-hash = "21b2bbbaf642c0fb2de50ef8b20cab75c5e4aea007efe35155247a5d076aff1e"
 metafile = true
 
 [[files]]
@@ -1507,11 +1474,6 @@ hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
 metafile = true
 
 [[files]]
-file = "mods/libvulpes.toml"
-hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
-metafile = true
-
-[[files]]
 file = "mods/littletiles.toml"
 hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
 metafile = true
@@ -1834,11 +1796,6 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.toml"
 hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
-metafile = true
-
-[[files]]
-file = "mods/warpdrive.toml"
-hash = "a76133072e142f425547524ce89d486df8c2c1a53e5830fdaceddcc267aaf668"
 metafile = true
 
 [[files]]
