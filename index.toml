@@ -1144,6 +1144,11 @@ hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
 
 [[files]]
+file = "mods/advanced-rocketry.toml"
+hash = "21b2bbbaf642c0fb2de50ef8b20cab75c5e4aea007efe35155247a5d076aff1e"
+metafile = true
+
+[[files]]
 file = "mods/ae2-stuff.toml"
 hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
 metafile = true
@@ -1474,13 +1479,13 @@ hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.toml"
-hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
+file = "mods/libvulpes.toml"
+hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
 metafile = true
 
 [[files]]
-file = "mods/lucraft-core.toml"
-hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
+file = "mods/littletiles.toml"
+hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
 metafile = true
 
 [[files]]
@@ -1811,6 +1816,11 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.toml"
 hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+metafile = true
+
+[[files]]
+file = "mods/warpdrive.toml"
+hash = "a76133072e142f425547524ce89d486df8c2c1a53e5830fdaceddcc267aaf668"
 metafile = true
 
 [[files]]

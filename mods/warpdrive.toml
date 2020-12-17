@@ -1,0 +1,14 @@
+name = "WarpDrive"
+filename = "WarpDrive-1.12.2-1.5.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3069/0/WarpDrive-1.12.2-1.5.19.jar"
+hash-format = "murmur2"
+hash = "2618855667"
+
+[update]
+[update.curseforge]
+file-id = 3069000
+project-id = 233565
+release-channel = "beta"
