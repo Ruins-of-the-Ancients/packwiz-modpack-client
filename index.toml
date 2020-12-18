@@ -902,7 +902,7 @@ hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -918,7 +918,7 @@ hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
-hash = "eb104f584265a4fefcb5931463e0bdf0cc34f41e31025ffe00f192929f12e2a0"
+hash = "f24f28ddb251b0f5c3af7575f6a4f53a67a91204665dbdc806984f879e1b5bec"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
@@ -926,7 +926,7 @@ hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -966,7 +966,7 @@ hash = "815fd50aca535dee86e51ac8aabe5f4ffa9d200332c2d06d6a100360ddccab01"
 
 [[files]]
 file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
-hash = "4a2e8938b2b4d819fbfdf984b3385f9481b2c075fb4797c0112af83dcb0dc73a"
+hash = "4965481d953304fff3b8f7e15398c23029dfe57708edc75be13f9defd78091a7"
 
 [[files]]
 file = "config/ruins_config/hell/taonasg.tml"
@@ -1014,7 +1014,7 @@ hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
