@@ -64,7 +64,7 @@ preserve_water=0
 preserve_lava=0
 #
 # minimum distance this template must have from instances of itself
-uniqueMinDistance=100
+uniqueMinDistance=280
 #
 # min/max distances this template can be from world spawn (0 = no limit)
 # only applies to overworld--i.e., dimension 0
