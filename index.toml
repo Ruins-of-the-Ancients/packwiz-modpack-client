@@ -1045,6 +1045,10 @@ file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
 hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
 
 [[files]]
+file = "config/schematica.cfg"
+hash = "328cad56289b234369af50f22efe4a529f018ad40a64141adb5aeecd42a3124d"
+
+[[files]]
 file = "config/secretroomsmod.cfg"
 hash = "40af6b63544732e61b6c0dc11af9c8bb8404e44402a5c4e8d5502a03d1fb26c2"
 
@@ -1407,11 +1411,6 @@ hash = "35f585772b6ffbb45b879e4581286aa4ced039c0453470aed62c6750a38c851a"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.toml"
-hash = "606fa0cc1c0f1695b9f445e4b0d030f403483fb9c185c4c2441142bfcb2eed31"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.toml"
 hash = "b9db7d42f0024e3063cc79b177fafb05039258549662d144246611693b01c739"
 metafile = true
@@ -1494,6 +1493,11 @@ metafile = true
 [[files]]
 file = "mods/littletiles.toml"
 hash = "796305fe6dd918d4da1a0834e16a360c435206a6027579cdb78e3a284362e9d9"
+metafile = true
+
+[[files]]
+file = "mods/lunatriuscore.toml"
+hash = "7a7b30389dd4fdda27a9ad0195f12df457386437b7110941c9a820e916011ae8"
 metafile = true
 
 [[files]]
@@ -1719,6 +1723,11 @@ metafile = true
 [[files]]
 file = "mods/ruins-structure-spawning-system.toml"
 hash = "4bd8d816a52795f9053ad3786b59547ca611aab24d372f9ec1d6083943673133"
+metafile = true
+
+[[files]]
+file = "mods/schematica.toml"
+hash = "b9b86ec828c115c7f2a1014999dc95bacda744bcc0a07d76401b31e5869feb26"
 metafile = true
 
 [[files]]

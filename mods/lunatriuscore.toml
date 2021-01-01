@@ -1,0 +1,14 @@
+name = "LunatriusCore"
+filename = "LunatriusCore-1.12.2-1.2.0.42-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2489/549/LunatriusCore-1.12.2-1.2.0.42-universal.jar"
+hash-format = "murmur2"
+hash = "1145034958"
+
+[update]
+[update.curseforge]
+file-id = 2489549
+project-id = 225605
+release-channel = "beta"

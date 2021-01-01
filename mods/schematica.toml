@@ -1,0 +1,14 @@
+name = "Schematica"
+filename = "Schematica-1.12.2-1.8.0.169-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2554/100/Schematica-1.12.2-1.8.0.169-universal.jar"
+hash-format = "murmur2"
+hash = "3242696918"
+
+[update]
+[update.curseforge]
+file-id = 2554100
+project-id = 225603
+release-channel = "beta"
