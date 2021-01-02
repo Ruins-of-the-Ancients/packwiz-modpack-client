@@ -777,6 +777,10 @@ file = "config/mcjtylib.cfg"
 hash = "5da016d72f154b7f42274db7a0f6b95a0b9b70a78bf97e9ebf4ea81867add8cc"
 
 [[files]]
+file = "config/mekanism.cfg"
+hash = "7ca35433ca67d1cc659ff99615629beb7eecea151db2fd4ff538322e4b3f1a20"
+
+[[files]]
 file = "config/microblocks.cfg"
 hash = "c37d2987b0316ae1e4b0bff9af8bca096e1d67cc5032c1287154b83cee37928e"
 
