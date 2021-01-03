@@ -1265,6 +1265,11 @@ hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.toml"
+hash = "3f1c26109b342f51f7a583bc9f100380934288de2293ba4c25feedc805b34096"
+metafile = true
+
+[[files]]
 file = "mods/chisel.toml"
 hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
