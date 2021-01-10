@@ -818,7 +818,7 @@ hash = "e17e93199c3275de9e7c02b1ba1850cd065a6002cd1672fb516f68fef0da161c"
 
 [[files]]
 file = "config/openblocks.cfg"
-hash = "3466f0af3ec2f26610494f3a6134a04e7f2a82409b6fc9c3a593d9aeb3d842bc"
+hash = "ec570ef98ece0584a695199483462612d3b6723cfe01c29074134994fa5520b4"
 
 [[files]]
 file = "config/opencomputers/default.recipes"
