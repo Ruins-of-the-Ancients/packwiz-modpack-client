@@ -1,14 +1,14 @@
 name = "Genetics Reborn"
-filename = "geneticsreborn-1.12-1.29.jar"
+filename = "geneticsreborn-1.12-1.32.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3030/960/geneticsreborn-1.12-1.29.jar"
+url = "https://edge.forgecdn.net/files/3149/33/geneticsreborn-1.12-1.32.jar"
 hash-format = "murmur2"
-hash = "734659350"
+hash = "1525444248"
 
 [update]
 [update.curseforge]
-file-id = 3030960
+file-id = 3149033
 project-id = 256989
 release-channel = "beta"
