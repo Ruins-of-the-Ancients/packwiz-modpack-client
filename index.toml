@@ -969,8 +969,8 @@ file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
 hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-stargate-mk11-typesakyo.tml"
-hash = "be0b7e70d9a728fe39d45befff4aabd4a78827c2066a225c72953acb44e742c7"
+file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
+hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
 
 [[files]]
 file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
