@@ -929,8 +929,8 @@ file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
 
 [[files]]
-file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcfinal.tml"
-hash = "48f698b3fa0059aea7496e974b082fd605610b739155bb54b0272e148f7685ce"
+file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
+hash = "34aab3089168b2b055ca744afd87534cfb719d38727ba3ca6af6e6b545936f05"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
