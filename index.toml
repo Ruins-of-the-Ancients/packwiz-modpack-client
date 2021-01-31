@@ -46,7 +46,7 @@ hash = "72b849d8fb9c64f01bb274113386b77ae1fa6969d69b165e5521f3f9dcecc785"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "296508a85e6698c2b42a38094d07669e099a12f038eefe934683094034b51245"
+hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
 [[files]]
 file = "config/IntegrationForegoing.cfg"
@@ -965,8 +965,8 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
-hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
+file = "config/ruins_config/generic/dartiscraft-seedship-final.tml"
+hash = "b7adcaa644a3db0282dc22b5e343b6a9f685f044dd6f1c0f2e4b459ac06b72f1"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
