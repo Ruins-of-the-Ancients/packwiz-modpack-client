@@ -40,7 +40,7 @@ allowedDimensions=0,1,-1
 enableFixedWidthRuleIds=false
 #
 # tileentity blocks, those (nonvanilla)blocks which cannot function without storing their nbt data, full name as stick dictates, seperated by commata
-teblocks=littletiles:blocklittletiles
+teblocks=littletiles:blocklittletiles,secretroomsmod:secret_wooden_door,secretroomsmod:secret_redstone,geneticsreborn:airdispersal,geneticsreborn:coalgenerator,redstonepaste:redstonepaste,redstonepaste:stickyrepeater,enderio:block_conduit_bundle,industrialforegoing:material_stonework_factory,refinedstorage:crafter,refinedstorage:grid,projectred-integration:gate
 
 specific_kriffon=75
 specific_lost oasis=75
