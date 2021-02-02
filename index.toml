@@ -66,7 +66,7 @@ hash = "f5f7be24306d4aa813826ba52161a009389dfdcc7d8366f84828ab5b5c54c5d9"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "d83cf31cc007caeef754a9d85b582cbe9879f6f6933a5a585919597d53cf3696"
+hash = "16fb8cafb86402bc3b7f75509c94f5390da4d432f64bb856f5b89f1d716370a3"
 
 [[files]]
 file = "config/ruins.txt"
