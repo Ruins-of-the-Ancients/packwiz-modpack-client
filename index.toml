@@ -61,6 +61,10 @@ file = "config/natura.cfg"
 hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
 
 [[files]]
+file = "config/openblocks.cfg"
+hash = "ec570ef98ece0584a695199483462612d3b6723cfe01c29074134994fa5520b4"
+
+[[files]]
 file = "config/orecore.cfg"
 hash = "f5f7be24306d4aa813826ba52161a009389dfdcc7d8366f84828ab5b5c54c5d9"
 
