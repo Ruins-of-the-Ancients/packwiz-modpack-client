@@ -85,8 +85,8 @@ file = "config/ruins_config/beaches/ftbj-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
+hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -101,8 +101,8 @@ file = "config/ruins_config/desert/TowerAtlantis.tml"
 hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
-hash = "f24f28ddb251b0f5c3af7575f6a4f53a67a91204665dbdc806984f879e1b5bec"
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-desert-final.tml"
+hash = "6e583e2dd334e29ac9dd456cf3a07f8e3658b40c2845091172f98407f1d2d702"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
@@ -117,8 +117,8 @@ file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml
 hash = "c8f3d038bb66ef04f78fcd6b30a180c31beb7ce6e473d9bf081899953bb90b51"
 
 [[files]]
-file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
+hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -130,7 +130,7 @@ hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
 [[files]]
 file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
-hash = "619731ab58ed0d0544fb796f7f97df89b98327814082d51647152bafa6fc1233"
+hash = "c8873dc3637aada8c444d31712d0e5e1ba7662b0c7875d41a035d3eb87ad1240"
 
 [[files]]
 file = "config/ruins_config/generic/OreSpire.tml"
@@ -142,7 +142,7 @@ hash = "56e623637ba2af8806437fd38a2e9d8abbf833aef27a38bcae5a2b1f7f5d88a0"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
-hash = "010e6e34b74302a8660d89454371932ea9a3a1d79ce4569bd1cd7063c8d21374"
+hash = "e69586807c75b7b39d4a861261ff5a050e545cebd7394bdd4d5cb777f5a533d8"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3l.tml"
@@ -161,8 +161,8 @@ file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
 hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
 
 [[files]]
-file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
-hash = "4965481d953304fff3b8f7e15398c23029dfe57708edc75be13f9defd78091a7"
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-nether-final.tml"
+hash = "94727ad7acb991b9e2a7021237c9a4bb65ebce09399e4b6a20c97ba9a1f585ca"
 
 [[files]]
 file = "config/ruins_config/hell/taonasg.tml"
@@ -197,8 +197,8 @@ file = "config/ruins_config/plains/TowerAtlantis.tml"
 hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
 
 [[files]]
-file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-final.tml"
+hash = "cad00ee651e3fe5f3274e0b943752522d64e6cf9c7748997a1365acda571df57"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -234,7 +234,7 @@ hash = "328cad56289b234369af50f22efe4a529f018ad40a64141adb5aeecd42a3124d"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
+hash = "cbe0aa9c477d8c8b8ff91fab0eeb3b68012f75f545028bdba7f71bc0c01047c0"
 
 [[files]]
 file = "config/simplerpg.cfg"
