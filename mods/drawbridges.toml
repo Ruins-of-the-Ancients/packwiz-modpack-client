@@ -1,14 +1,14 @@
 name = "Drawbridges"
-filename = "drawbridges-1.1.jar"
+filename = "Drawbridges-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2689/438/drawbridges-1.1.jar"
+url = "https://edge.forgecdn.net/files/2633/407/Drawbridges-1.0.1.jar"
 hash-format = "murmur2"
-hash = "1370060517"
+hash = "742653869"
 
 [update]
 [update.curseforge]
-file-id = 2689438
+file-id = 2633407
 project-id = 297212
 release-channel = "beta"
