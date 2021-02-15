@@ -1,0 +1,14 @@
+name = "DynmapForge"
+filename = "Dynmap-3.1-beta7-forge-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3197/691/Dynmap-3.1-beta7-forge-1.12.2.jar"
+hash-format = "murmur2"
+hash = "4124232425"
+
+[update]
+[update.curseforge]
+file-id = 3197691
+project-id = 59433
+release-channel = "beta"

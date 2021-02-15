@@ -265,6 +265,14 @@ file = "config/woot/woot.cfg"
 hash = "4710c95cc6c521c3239cca291c2258c04f1cce1ec6b13e1eaf54746b865fe198"
 
 [[files]]
+file = "dynmap/configuration.txt"
+hash = "ce5ed10dff9c8cb3d38953614610be68ac6284eeb4cfacaf853d1d9c126b927b"
+
+[[files]]
+file = "dynmap/worlds.txt"
+hash = "6dad243ab14b97a70923edc5d2bc401fa5f8fef7fa0dc88b6112a2e9b6c271bb"
+
+[[files]]
 file = "mods/absent-by-design.toml"
 hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
 metafile = true
@@ -467,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/drawbridges.toml"
 hash = "f0815b15b7f00f493fc0650216fca29c1875d874c5cd12317100882d459e71a4"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.toml"
+hash = "09f2e199908a7ee98bfa41e27eff828989d5d475da415e67f19e3ee5ae6863fa"
 metafile = true
 
 [[files]]
