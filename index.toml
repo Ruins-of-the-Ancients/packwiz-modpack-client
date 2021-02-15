@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.toml"
-hash = "c998bc50b834b145fb64944b88d5b406c73b778462ac4cb91d569bcaaa37ccba"
+hash = "a0c3cea130642c84d473e64d030a80dd86287be72429c0a0e08291dda18181ad"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.toml"
-hash = "09f2e199908a7ee98bfa41e27eff828989d5d475da415e67f19e3ee5ae6863fa"
+hash = "468a0e7724d97afdad3c5eecd14910e1bb3a44809d0513f63ade8e4b3323269b"
 metafile = true
 
 [[files]]

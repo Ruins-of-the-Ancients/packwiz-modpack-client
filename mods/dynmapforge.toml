@@ -1,6 +1,6 @@
 name = "DynmapForge"
 filename = "Dynmap-3.1-beta7-forge-1.12.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3197/691/Dynmap-3.1-beta7-forge-1.12.2.jar"
