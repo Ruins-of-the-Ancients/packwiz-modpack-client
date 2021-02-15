@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-utilities.toml"
-hash = "af4204cd4a13a192ce1275f24c29643ca24cc972a5990e4df01ed342bd0b457a"
+hash = "c79c11ad84807a9746129858607f5b75408aa10d95de66f89cd299258d08d88f"
 metafile = true
 
 [[files]]

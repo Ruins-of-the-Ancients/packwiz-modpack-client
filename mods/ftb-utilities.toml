@@ -1,14 +1,8 @@
 name = "FTB Utilities"
-filename = "FTBUtilities-5.4.1.131.jar"
+filename = "FTBUtilities-5.4.1.custom.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3157/548/FTBUtilities-5.4.1.131.jar"
-hash-format = "murmur2"
-hash = "679359278"
-
-[update]
-[update.curseforge]
-file-id = 3157548
-project-id = 237102
-release-channel = "beta"
+url = "http://rota.pvabel.net/pack/custom-mods/FTBUtilities-5.4.1.custom.jar"
+hash-format = "sha512"
+hash = "2345e677ed5adb8a2a314204151fe4b9df398ef1e52ef45d5d138d05b25690659febd63915207442e25cd9eaa08a2776585214e11ec420da45f3bd82362e0d0b"
