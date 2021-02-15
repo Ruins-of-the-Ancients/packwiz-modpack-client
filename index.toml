@@ -89,6 +89,10 @@ file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-f
 hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
 
 [[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+
+[[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
 hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
 
@@ -105,6 +109,10 @@ file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-desert-
 hash = "6e583e2dd334e29ac9dd456cf3a07f8e3658b40c2845091172f98407f1d2d702"
 
 [[files]]
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
+hash = "f24f28ddb251b0f5c3af7575f6a4f53a67a91204665dbdc806984f879e1b5bec"
+
+[[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
 
@@ -119,6 +127,10 @@ hash = "c8f3d038bb66ef04f78fcd6b30a180c31beb7ce6e473d9bf081899953bb90b51"
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
 hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
+
+[[files]]
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
@@ -159,6 +171,10 @@ hash = "16deee1df475a95af36442cf86e9525eaba69505d0e8d57af55766d5219435b2"
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
 hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
+
+[[files]]
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
+hash = "4965481d953304fff3b8f7e15398c23029dfe57708edc75be13f9defd78091a7"
 
 [[files]]
 file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-nether-final.tml"
