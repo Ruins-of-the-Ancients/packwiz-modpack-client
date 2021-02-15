@@ -1,14 +1,14 @@
 name = "Draconic Additions"
-filename = "Draconic-Additions-1.12.2-1.14.1.37-universal.jar"
+filename = "Draconic-Additions-1.12.2-1.15.1.39-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3051/992/Draconic-Additions-1.12.2-1.14.1.37-universal.jar"
+url = "https://edge.forgecdn.net/files/3195/127/Draconic-Additions-1.12.2-1.15.1.39-universal.jar"
 hash-format = "murmur2"
-hash = "1270069791"
+hash = "1496791065"
 
 [update]
 [update.curseforge]
-file-id = 3051992
+file-id = 3195127
 project-id = 314515
 release-channel = "beta"

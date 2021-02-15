@@ -1,14 +1,14 @@
 name = "Flux Networks"
-filename = "fluxnetworks-1.12.2-4.0.15-32.jar"
+filename = "FluxNetworks-1.12.2-4.1.1.34.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2993/739/fluxnetworks-1.12.2-4.0.15-32.jar"
+url = "https://edge.forgecdn.net/files/3178/199/FluxNetworks-1.12.2-4.1.1.34.jar"
 hash-format = "murmur2"
-hash = "3839411277"
+hash = "449558524"
 
 [update]
 [update.curseforge]
-file-id = 2993739
+file-id = 3178199
 project-id = 248020
 release-channel = "beta"
