@@ -6,9 +6,3 @@ side = "both"
 url = "https://edge.forgecdn.net/files/2968/171/CreativeCore_v1.10.16_mc1.12.2.jar"
 hash-format = "murmur2"
 hash = "958672097"
-
-[update]
-[update.curseforge]
-file-id = 2968171
-project-id = 257814
-release-channel = "beta"
