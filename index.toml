@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "9e95e85e1901f88818d6c18d82d68ea4342206979ad861f884299e241ad4b195"
+hash = "02f9e364931862bafac43444c78fa0f8425c45d08c0326c82830513c18a0de9b"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-integration.toml"
-hash = "5d1f363d9a6daed54fd0d8b30a5951f4d63ecba4e3617a5e442b87d535f42130"
+hash = "f3ae980b52ed5c86d19fc7d59a0fa080aa7c462edfbb4835ec02c672cd13ad21"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
-hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
+hash = "408a848c1081b56a23042fbace00ec8fda28fe5a973323d8a8736b6d02be1fa1"
 metafile = true
 
 [[files]]

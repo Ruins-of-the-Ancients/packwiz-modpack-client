@@ -1,6 +1,6 @@
 name = "JEI Integration"
 filename = "jeiintegration_1.12.2-1.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2951/731/jeiintegration_1.12.2-1.6.0.jar"
