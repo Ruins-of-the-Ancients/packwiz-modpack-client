@@ -463,6 +463,11 @@ hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.toml"
+hash = "4502fae41a982b8d51269a82949247b775fe76d7f32ecdda99602ca149f0ca84"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.toml"
 hash = "57ff8d1b91abeb5f6e57e905a31c28c12bbb05391ead15031c7d95e01b2a825c"
 metafile = true
