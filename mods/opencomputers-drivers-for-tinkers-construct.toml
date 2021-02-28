@@ -1,0 +1,14 @@
+name = "OpenComputers Drivers for Tinkers Construct"
+filename = "tinkersoc-0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2645/185/tinkersoc-0.6.jar"
+hash-format = "murmur2"
+hash = "893460687"
+
+[update]
+[update.curseforge]
+file-id = 2645185
+project-id = 287267
+release-channel = "beta"

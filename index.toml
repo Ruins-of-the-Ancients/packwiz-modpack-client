@@ -738,6 +738,11 @@ hash = "77a004aa37ac112119bf97804477a173d3bd0157b69caf1df16f48a057b8993a"
 metafile = true
 
 [[files]]
+file = "mods/opencomputers-drivers-for-tinkers-construct.toml"
+hash = "cfe82027ccac5f3ba0c3bd2c4d2841bda75e8252e5875dd91268ab6a604772ab"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers.toml"
 hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
 metafile = true
