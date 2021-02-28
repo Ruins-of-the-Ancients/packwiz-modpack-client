@@ -1,0 +1,14 @@
+name = "Energy Meters"
+filename = "energymeters-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2995/865/energymeters-1.12.2-1.0.2.jar"
+hash-format = "murmur2"
+hash = "1448539902"
+
+[update]
+[update.curseforge]
+file-id = 2995865
+project-id = 391768
+release-channel = "beta"

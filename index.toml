@@ -508,6 +508,11 @@ hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
 metafile = true
 
 [[files]]
+file = "mods/energy-meters.toml"
+hash = "e8685ec2a04793851f329b93baf92acf08a9aca60c2416526cc0831e4602431b"
+metafile = true
+
+[[files]]
 file = "mods/engineers-workshop-reborn.toml"
 hash = "5bdc0e714fd18f13652105f78185122ba5567bb5b6dd23b136c78a80e9034464"
 metafile = true
