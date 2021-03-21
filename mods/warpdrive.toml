@@ -1,14 +1,14 @@
 name = "WarpDrive"
-filename = "WarpDrive-1.12.2-1.5.20.jar"
+filename = "WarpDrive-1.12.2-1.5.21.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3211/729/WarpDrive-1.12.2-1.5.20.jar"
+url = "https://edge.forgecdn.net/files/3244/630/WarpDrive-1.12.2-1.5.21.jar"
 hash-format = "murmur2"
-hash = "1907297317"
+hash = "2392380872"
 
 [update]
 [update.curseforge]
-file-id = 3211729
+file-id = 3244630
 project-id = 233565
 release-channel = "beta"

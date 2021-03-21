@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "983bbb725b3d10cbed1d0face471063c9af421bb12b6f35564842c6f33726969"
+hash = "0cb31c5f494839ed4b4904e72fb789dfb921bb30f61bfac58c1f4d6a739018fa"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "68eec8ddbd6b234e85e2d919c8aac28fdeb5db1daf4fd7c8ca03597b19619c59"
+hash = "e837604e90d2e7d21ec5ee42243bb7bb2d6be6cadd558dce4311cbe7139309fe"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.toml"
-hash = "468a0e7724d97afdad3c5eecd14910e1bb3a44809d0513f63ade8e4b3323269b"
+hash = "19996788f3289b3f0acc1e26f111a8dbf04ba35a60a9f645717f60513704331a"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "169f254aeb08462b3e028e0f28d0f335a22ed8e36d8f07f42c64d8e657249fb3"
+hash = "b5565feb23b7bc52c900857bcd5c770a4ab088e413492001c9be10f43245c947"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "6570d3380e499ae93ba886209faae344a685fbb01c572df8bf231ae3b1c92740"
+hash = "a79adf364131507c1d7d4d03bfc937c2fc16297286e8ac21c92e5ce5085355f8"
 metafile = true
 
 [[files]]
