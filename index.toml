@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "0cb31c5f494839ed4b4904e72fb789dfb921bb30f61bfac58c1f4d6a739018fa"
+hash = "be71c3e9a3fd5d4c98f431a95f8e254357c8a0d8e50ba8e6c07b78d698bdcd29"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "e837604e90d2e7d21ec5ee42243bb7bb2d6be6cadd558dce4311cbe7139309fe"
+hash = "c4c03da7f465614383ca2cd84eff7e6e7a2f4b2e52ef7a60b6d09ed3a44f3293"
 metafile = true
 
 [[files]]
