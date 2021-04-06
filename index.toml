@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "be71c3e9a3fd5d4c98f431a95f8e254357c8a0d8e50ba8e6c07b78d698bdcd29"
+hash = "af692799aecaf1ee477a6dd096883d0dd46800845e5251e010e522030d581be7"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "c4c03da7f465614383ca2cd84eff7e6e7a2f4b2e52ef7a60b6d09ed3a44f3293"
+hash = "ebd457d4840e1bd846b41ebb231e426990362e865b0e4cc35f460aa82d851977"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
+hash = "02043f4f92bac830f8bda3b870bdd81267f4d0e12f12f94c1b6741162fb47f58"
 metafile = true
 
 [[files]]
