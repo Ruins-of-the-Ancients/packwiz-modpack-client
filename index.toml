@@ -261,6 +261,10 @@ file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
+file = "config/warpdrive/config.yml"
+hash = "cd1c87fbfa46d065079db73833bdafacb8cfe0469714573e4b4392920e5be8e2"
+
+[[files]]
 file = "config/woot/woot.cfg"
 hash = "4710c95cc6c521c3239cca291c2258c04f1cce1ec6b13e1eaf54746b865fe198"
 
