@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "3864fc1a99dc1ef6b05da7ab3e8548d57e754dc454e210a5dceeaa55de18a608"
+hash = "c4769630786f9098e087d31e630d555f661fa4baf57363a0d03563978e093f74"
 metafile = true
 
 [[files]]
@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "b5565feb23b7bc52c900857bcd5c770a4ab088e413492001c9be10f43245c947"
+hash = "9f16bb9a84be06ec968b31ded7396555b3697e8d93a117cdd3354b2808e895e0"
 metafile = true
 
 [[files]]
