@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "148ba54ec0618ca45c6dd39bb0c5053429d2415dbca425780df354d4045d41fa"
+hash = "1f72a1eeb15100a4ec3d41a22ddb37d7b1b7825680878f57dd8e600957d96e20"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicadditions.toml"
-hash = "cdc285569bd7a2bbf7b7ff9a243c47330d786330f36a800573bec72e924b96f2"
+hash = "a942204ae6d8c6ad170295c3a18a8b5b85f7bb7965e36855ef46a11b3ad478ed"
 metafile = true
 
 [[files]]
