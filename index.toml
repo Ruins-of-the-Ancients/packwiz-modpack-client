@@ -998,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "a79adf364131507c1d7d4d03bfc937c2fc16297286e8ac21c92e5ce5085355f8"
+hash = "6570d3380e499ae93ba886209faae344a685fbb01c572df8bf231ae3b1c92740"
 metafile = true
 
 [[files]]
