@@ -6,9 +6,3 @@ side = "both"
 url = "https://edge.forgecdn.net/files/3211/729/WarpDrive-1.12.2-1.5.20.jar"
 hash-format = "murmur2"
 hash = "1907297317"
-
-[update]
-[update.curseforge]
-file-id = 3211729
-project-id = 233565
-release-channel = "beta"
