@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "1f72a1eeb15100a4ec3d41a22ddb37d7b1b7825680878f57dd8e600957d96e20"
+hash = "fb9b5efa34ebde4466ce58869d745e56f2d4409e1cc57f68f54d0c61a6de1796"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-calculation.toml"
-hash = "e3a47eea3e209d86f1b487511bbb6144078439c71bb644e1a3bc9f2e53172ee6"
+hash = "47af0937ad499b423758cfee436398c30454962c033739452118b0a352ade16b"
 metafile = true
 
 [[files]]
