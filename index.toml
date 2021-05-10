@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "af692799aecaf1ee477a6dd096883d0dd46800845e5251e010e522030d581be7"
+hash = "a3d265efcc8d09ae1c1e4ba366969021abc4f24f67d35cb8e18f7780c79a594b"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "beafa26ec8d6e193d6381f67c5b960556d6ab9fffd21fba131d722c5ebea7b82"
+hash = "b05aef2956cca8eede073c5a4051da93ea779a1a134a088fdc8c59e69026bb68"
 metafile = true
 
 [[files]]
