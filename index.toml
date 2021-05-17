@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "a3d265efcc8d09ae1c1e4ba366969021abc4f24f67d35cb8e18f7780c79a594b"
+hash = "7509fe30e98f5159bdb74eb6c56d986f46c0771b80c1c914f19e4e425e0de0d7"
 metafile = true
 
 [[files]]
@@ -998,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "a79adf364131507c1d7d4d03bfc937c2fc16297286e8ac21c92e5ce5085355f8"
+hash = "d9d70e480723d74399822512ae5678153d83352d550fc6954b3b5b4e1a8e2344"
 metafile = true
 
 [[files]]
