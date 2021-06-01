@@ -3,7 +3,7 @@ name = "Ruins of the Ancients MULTIPLAYER"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "059a4078148fb2633a793cbd80583ad8924ef8015fc3bb4211474659593b8113"
+hash = "aac18be21f824e491c709f5a9fa5749533a0c8c233f68933859169793ec355d2"
 
 [versions]
 forge = "14.23.5.2854"
