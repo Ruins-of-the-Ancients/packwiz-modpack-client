@@ -3,12 +3,12 @@ filename = "SuperFactoryManager-1.12.2-2.0.25.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3061/425/SuperFactoryManager-1.12.2-2.0.25.jar"
+url = "https://edge.forgecdn.net/files/3357/967/SuperFactoryManager-1.12.2-2.0.25.jar"
 hash-format = "murmur2"
-hash = "2656482489"
+hash = "1281292797"
 
 [update]
 [update.curseforge]
-file-id = 3061425
+file-id = 3357967
 project-id = 306935
 release-channel = "beta"

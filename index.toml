@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.toml"
-hash = "f4bef5f36cf2a8ec31876ed6785580e0ea86cde4e3970f2ecdd65fe024d19471"
+hash = "5ad3021d06994936e3d8111ec32a368db7ff481705076a51b3f9bd1aee7d1ed5"
 metafile = true
 
 [[files]]
