@@ -261,10 +261,6 @@ file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
-file = "config/warpdrive/config.yml"
-hash = "cd1c87fbfa46d065079db73833bdafacb8cfe0469714573e4b4392920e5be8e2"
-
-[[files]]
 file = "config/woot/woot.cfg"
 hash = "4710c95cc6c521c3239cca291c2258c04f1cce1ec6b13e1eaf54746b865fe198"
 
@@ -998,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "d9d70e480723d74399822512ae5678153d83352d550fc6954b3b5b4e1a8e2344"
+hash = "e396e8a6ec778f881300d17a23e68ec951b3fe6d44cd808a14246fcc4da3f38c"
 metafile = true
 
 [[files]]
