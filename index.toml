@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "4502fae41a982b8d51269a82949247b775fe76d7f32ecdda99602ca149f0ca84"
+hash = "9fbd4776b1ea8dd10e45635c7cf4714e441bfdad6eeb7cef32fd86b6772daf2f"
 metafile = true
 
 [[files]]
