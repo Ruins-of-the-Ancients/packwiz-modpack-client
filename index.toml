@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
+hash = "f35d393c08626938c7f7bb0dca46ff51549d9edf953f76fbbe036ab9f243cd4b"
 metafile = true
 
 [[files]]
