@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/brandons-core.toml"
-hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
+hash = "8e2f76fb3619630b5630d54f7ccc1504a2cc24e2a7e5ca3c345f3b7013cd9906"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "5798614cbc4c32632bedcb9c78d7062344dc1a08140dc36c610952ed732fdc1f"
+hash = "fc4ddfc276564d8d491a4bf724597a1e9bfa5f25ad5666171cd11289aa3ddbf2"
 metafile = true
 
 [[files]]
