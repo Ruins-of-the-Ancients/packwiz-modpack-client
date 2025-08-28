@@ -1,9 +1,10 @@
 name = "Ruins of the Ancients MULTIPLAYER"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "36c25ff88b1a19af3e29ba37f48819dc6fd076a5c641e7f44a020943054fd87e"
+hash = "db7639a73fba4cc3c905cb7741f7c3f494bc4f628fcacd976320d75dc369e7d7"
 
 [versions]
 forge = "14.23.5.2854"
